@@ -23,6 +23,7 @@ url: "https://vancouver6t.github.io" # the base hostname & protocol for your sit
 github_username:  Vancouver6T
 google_analytics: UA-89104783-1
 
+future: false
 # Build settings
 markdown: kramdown
 theme: minima
