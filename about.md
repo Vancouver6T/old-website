@@ -18,7 +18,7 @@ Though I also occasionally look into theoretical mathematics, often Set Theory.<
 
 ### My favorite...
 -   place is Melbourne, because I don't like snow, and its awesome there. <br>
--   emoji is :joy:, U+1F602 or, 😂. <br>
+-   emoji is :joy:, [U+1F602](https://codepoints.net/U+1F602) or, [😂](https://codepoints.net/U+1F602). <br>
 -   computer is the Surface Studio from Microsoft, it takes my breath away. <br>
 -   (unproven) conjecture is [the generalized continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis#The_generalized_continuum_hypothesis). <br>
 -   proven conjecture is [Cantor's Throrem](https://en.wikipedia.org/wiki/Cantor%27s_theorem). <br>
