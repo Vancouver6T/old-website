@@ -35,4 +35,5 @@ However, I also watch a lot of YouTube videos in my free time, because I think t
 One of my dreams is to work at Pixar atleast once, and I'm working on that. <br>
 Another of my dreams is to start a YouTube channel, but currently, I don't have time to create content. Once my life settles down more, then I can choose.
 
-#### I hope you enjoy the blog and learned a little bit about me.#  
+#### I hope you enjoy the blog and learned a little bit about me.
+Please contact me thru email, if you want more info about me. 
