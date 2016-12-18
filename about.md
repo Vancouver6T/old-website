@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
+date:   2017-1-1
 ---
 # Hello I'm Vancouver6T, v6t for short,
 
