@@ -1,6 +1,6 @@
 ---
-;layout: page
-;title: Résumé
-;permalink: /assets/resume_us.pdf
+layout: page
+title: Résumé
+permalink: /assets/resume_us.pdf
 ---
-This is a link to my resume. 
+My [résumé](/assets/resume_us.pdf). 
