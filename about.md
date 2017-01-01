@@ -11,7 +11,7 @@ Contact info is at the bottom of the page
 
 ## Student Info
 I'm currently a student at [The Ohio State University](https://www.osu.edu) majoring in [Computer Science and Engineering](https://cse.osu.edu). <br>
-I plan to graduate with a Bachelors of Science during May 2017. 
+I graduate with a Bachelors of Science on May 2017. 
 
 ## Interests
 I currently enjoy Animating and Game making, usually using Blender and Python3 in someway. <br>
@@ -19,7 +19,7 @@ Though I also occasionally look into theoretical mathematics, often Set Theory.<
 
 ### My favorite...
 -   place is Melbourne, because I don't like snow, and its awesome there. <br>
--   emoji is [😂](https://codepoints.net/U+1F602 ":joy:"). <br>
+-   emoji is [:joy:](http://blog.oxforddictionaries.com/2015/11/word-of-the-year-2015-emoji/){:target="_blank"}. <br>
 -   computer is the Surface Studio from Microsoft, it takes my breath away. <br>
 -   (unproven) conjecture is [the generalized continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis#The_generalized_continuum_hypothesis "Wikipedia's entry on the Continuum Hypothesis"). <br>
 -   proven conjecture is [Cantor's Throrem](https://en.wikipedia.org/wiki/Cantor%27s_theorem "Wikipedia's entry on the Cantor's Theorem"). <br>

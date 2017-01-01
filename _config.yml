@@ -16,13 +16,13 @@
 title: Vancouver6T's blog
 email: vancouver6t@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my blog. I will post anything I consider interesting here. Hope you like! :joy: 
+  This is my blog. I will post anything I consider interesting here. Hope you like! 😂
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vancouver6t.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "vancouver6t.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Vancouver6T
-google_analytics: UA-89104783-1
 
+google_analytics: UA-89104783-1
 future: false
 # Build settings
 markdown: kramdown
