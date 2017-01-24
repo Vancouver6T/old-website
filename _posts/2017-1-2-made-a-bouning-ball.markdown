@@ -33,7 +33,7 @@ I think I will try to make this using a program, next time.
 I think it will go a lot slower, since I haven't learned the blender python3 api. 
 
 #### Video
-<video width="720" controls>
+<video width="720" controls loop>
     <source src="/assets/2017-1-2/video.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video> 
