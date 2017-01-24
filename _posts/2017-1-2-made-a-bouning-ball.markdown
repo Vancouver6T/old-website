@@ -34,6 +34,6 @@ I think it will go a lot slower, since I haven't learned the blender python3 api
 
 #### Video
 <video width="720" controls>
-    <source src="video.mp4" type="video/mp4">
+    <source src="/assets/2017-1-2/video.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video> 
