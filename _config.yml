@@ -21,7 +21,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vancouver6t.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Vancouver6T
 
-google_analytics: UA-89104783-1
 future: false
 # Build settings
 markdown: kramdown
